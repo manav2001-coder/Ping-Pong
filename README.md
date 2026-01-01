@@ -1,6 +1,6 @@
 # 🏓 Pong Game (Pygame)
 
-![Pong Game Screenshot](pong.png)
+<img src="https://github.com/manav2001-coder/Ping-Pong/raw/main/pong.png" alt="Screenshot of the Pong" height="700" width="350">
 
 A simple **Pong-style game** built using **Python** and **Pygame**.  
 This project demonstrates basic game mechanics such as movement, collision detection, scoring, and rendering using Pygame.
